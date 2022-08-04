@@ -2,4 +2,4 @@
 
 ![screenshot](./9.png)
 
-# [live Preview]()
+# [live Preview](https://jaydev-project-09.netlify.app/)
